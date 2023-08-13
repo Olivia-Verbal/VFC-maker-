@@ -5,11 +5,11 @@ This program is simple and works only for name and phone number.
 
 Type out the numbers in a .txt file in given manner:
 
-Name1
-Number1
+Name on first line and number with respect to name on the second line.
 
-Name2
-Number2
+leave a line 
+
+next name and number 
 
 and so on upto infinite numbers.
 Check the txt file for example.
