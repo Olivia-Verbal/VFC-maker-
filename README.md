@@ -2,7 +2,8 @@
 Converts text file to a vcf file.
 
 This program is simple and works only for name and phone number. 
-Type out the numbers in a txt file in given manner:
+
+Type out the numbers in a .txt file in given manner:
 
 Name1
 Number1
