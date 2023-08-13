@@ -16,7 +16,8 @@ Check the txt file for example.
 
 Save this txt file in the same folder as converter.py
 
-Run converter.py.
+Run converter.py, give info.
+
 Done.
 
 The exported vcf ( vcard ) file will be in the same folder as txt file and .py program.
