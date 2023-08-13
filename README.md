@@ -21,3 +21,5 @@ Done.
 The exported vcf ( vcard ) file will be in the same folder as txt file and .py program.
 
 Was made for personal use, incase you need it :3
+
+Might make it store more info in the future.
