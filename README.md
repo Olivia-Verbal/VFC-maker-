@@ -1,4 +1,4 @@
-# VFC-maker-
+# VCF-maker-
 Converts text file to a vcf file.
 
 This program is simple and works only for name and phone number. 
